@@ -1,0 +1,1028 @@
+OBJECTID1,OBJECTID2,OBJECTID1_admin1Name,OBJECTID1_admin2Name,OBJECTID1_admin3Name,OBJECTID2_admin1Name,OBJECTID2_admin2Name,OBJECTID2_admin3Name
+1,1,Southern,Pujehun,Yakemu Kpukumu,Southern,Pujehun,Yakemu Kpukumu
+4,1,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Yakemu Kpukumu
+6,1,Southern,Pujehun,Kpaka,Southern,Pujehun,Yakemu Kpukumu
+14,1,Southern,Bonthe,Kwamebai Krim,Southern,Pujehun,Yakemu Kpukumu
+19,1,Southern,Pujehun,Mono Sakrim,Southern,Pujehun,Yakemu Kpukumu
+21,1,Southern,Pujehun,Panga krim,Southern,Pujehun,Yakemu Kpukumu
+2,2,Northern,Port Loko,Koya,Northern,Port Loko,Koya
+53,2,Southern,Moyamba,Ribbi,Northern,Port Loko,Koya
+89,2,Northern,Port Loko,Marampa,Northern,Port Loko,Koya
+93,2,Northern,Port Loko,Maforki,Northern,Port Loko,Koya
+107,2,Northern,Tonkolili,Yoni,Northern,Port Loko,Koya
+110,2,Northern,Port Loko,Masimera,Northern,Port Loko,Koya
+155,2,Western,Western Area Rural,Koya Rural,Northern,Port Loko,Koya
+157,2,Western,Western Area Rural,Waterloo Rural,Northern,Port Loko,Koya
+3,3,Northern,Port Loko,Bureh Kasseh Ma,Northern,Port Loko,Bureh Kasseh Ma
+93,3,Northern,Port Loko,Maforki,Northern,Port Loko,Bureh Kasseh Ma
+96,3,Northern,Port Loko,Dibia,Northern,Port Loko,Bureh Kasseh Ma
+109,3,Northern,Port Loko,Lokomasama,Northern,Port Loko,Bureh Kasseh Ma
+111,3,Northern,Port Loko,Sanda Magbolont,Northern,Port Loko,Bureh Kasseh Ma
+136,3,Northern,Kambia,Mambolo,Northern,Port Loko,Bureh Kasseh Ma
+151,3,Northern,Kambia,Magbema,Northern,Port Loko,Bureh Kasseh Ma
+152,3,Northern,Kambia,Masungbala,Northern,Port Loko,Bureh Kasseh Ma
+1,4,Southern,Pujehun,Yakemu Kpukumu,Southern,Pujehun,Panga Kabonde
+4,4,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Panga Kabonde
+5,4,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Panga Kabonde
+6,4,Southern,Pujehun,Kpaka,Southern,Pujehun,Panga Kabonde
+7,4,Southern,Bonthe,Bum,Southern,Pujehun,Panga Kabonde
+14,4,Southern,Bonthe,Kwamebai Krim,Southern,Pujehun,Panga Kabonde
+18,4,Southern,Pujehun,Malen,Southern,Pujehun,Panga Kabonde
+19,4,Southern,Pujehun,Mono Sakrim,Southern,Pujehun,Panga Kabonde
+20,4,Southern,Pujehun,Sowa,Southern,Pujehun,Panga Kabonde
+21,4,Southern,Pujehun,Panga krim,Southern,Pujehun,Panga Kabonde
+23,4,Southern,Pujehun,Pejeh(Futa peje,Southern,Pujehun,Panga Kabonde
+4,5,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Galliness Perri
+5,5,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Galliness Perri
+6,5,Southern,Pujehun,Kpaka,Southern,Pujehun,Galliness Perri
+10,5,Southern,Pujehun,Barri,Southern,Pujehun,Galliness Perri
+21,5,Southern,Pujehun,Panga krim,Southern,Pujehun,Galliness Perri
+23,5,Southern,Pujehun,Pejeh(Futa peje,Southern,Pujehun,Galliness Perri
+24,5,Southern,Pujehun,Soro Gbema,Southern,Pujehun,Galliness Perri
+1,6,Southern,Pujehun,Yakemu Kpukumu,Southern,Pujehun,Kpaka
+4,6,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Kpaka
+5,6,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Kpaka
+6,6,Southern,Pujehun,Kpaka,Southern,Pujehun,Kpaka
+19,6,Southern,Pujehun,Mono Sakrim,Southern,Pujehun,Kpaka
+21,6,Southern,Pujehun,Panga krim,Southern,Pujehun,Kpaka
+24,6,Southern,Pujehun,Soro Gbema,Southern,Pujehun,Kpaka
+4,7,Southern,Pujehun,Panga Kabonde,Southern,Bonthe,Bum
+7,7,Southern,Bonthe,Bum,Southern,Bonthe,Bum
+13,7,Southern,Bonthe,Kpanda Kemo,Southern,Bonthe,Bum
+14,7,Southern,Bonthe,Kwamebai Krim,Southern,Bonthe,Bum
+18,7,Southern,Pujehun,Malen,Southern,Bonthe,Bum
+31,7,Southern,Bonthe,Sogbeni,Southern,Bonthe,Bum
+32,7,Southern,Bonthe,Yawbeko,Southern,Bonthe,Bum
+50,7,Southern,Bo,Bagbo,Southern,Bonthe,Bum
+8,8,Southern,Bo,Komboya,Southern,Bo,Komboya
+9,8,Southern,Bo,Valunia,Southern,Bo,Komboya
+38,8,Eastern,Kenema,Simbaru,Southern,Bo,Komboya
+58,8,Eastern,Kenema,Gorama Mende,Southern,Bo,Komboya
+67,8,Eastern,Kenema,Wandor,Southern,Bo,Komboya
+83,8,Southern,Bo,Badjia,Southern,Bo,Komboya
+84,8,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Komboya
+92,8,Southern,Bo,Niawa Lenga,Southern,Bo,Komboya
+8,9,Southern,Bo,Komboya,Southern,Bo,Valunia
+9,9,Southern,Bo,Valunia,Southern,Bo,Valunia
+34,9,Southern,Bo,Selenga,Southern,Bo,Valunia
+48,9,Southern,Moyamba,Kamajei,Southern,Bo,Valunia
+58,9,Eastern,Kenema,Gorama Mende,Southern,Bo,Valunia
+86,9,Southern,Bo,Gbo,Southern,Bo,Valunia
+92,9,Southern,Bo,Niawa Lenga,Southern,Bo,Valunia
+97,9,Northern,Tonkolili,Kunike Barina,Southern,Bo,Valunia
+98,9,Northern,Tonkolili,Gbonkolenken,Southern,Bo,Valunia
+5,10,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Barri
+10,10,Southern,Pujehun,Barri,Southern,Pujehun,Barri
+17,10,Southern,Pujehun,Makpele,Southern,Pujehun,Barri
+23,10,Southern,Pujehun,Pejeh(Futa peje,Southern,Pujehun,Barri
+24,10,Southern,Pujehun,Soro Gbema,Southern,Pujehun,Barri
+59,10,Eastern,Kenema,Koya,Southern,Pujehun,Barri
+62,10,Eastern,Kenema,Niawa,Southern,Pujehun,Barri
+68,10,Eastern,Kenema,Tunkia,Southern,Pujehun,Barri
+11,11,Northern,Port Loko,Buya Romende,Northern,Port Loko,Buya Romende
+89,11,Northern,Port Loko,Marampa,Northern,Port Loko,Buya Romende
+93,11,Northern,Port Loko,Maforki,Northern,Port Loko,Buya Romende
+113,11,Northern,Port Loko,TMS,Northern,Port Loko,Buya Romende
+142,11,Northern,Bombali,Libeisaygahun,Northern,Port Loko,Buya Romende
+145,11,Northern,Bombali,Makari Gbanti,Northern,Port Loko,Buya Romende
+12,12,Northern,Kambia,Bramaia,Northern,Kambia,Bramaia
+79,12,Northern,Kambia,Gbinle Dixing,Northern,Kambia,Bramaia
+149,12,Northern,Bombali,Tambakha,Northern,Kambia,Bramaia
+151,12,Northern,Kambia,Magbema,Northern,Kambia,Bramaia
+154,12,Northern,Kambia,Tonko Limba,Northern,Kambia,Bramaia
+7,13,Southern,Bonthe,Bum,Southern,Bonthe,Kpanda Kemo
+13,13,Southern,Bonthe,Kpanda Kemo,Southern,Bonthe,Kpanda Kemo
+29,13,Southern,Bonthe,Jong,Southern,Bonthe,Kpanda Kemo
+31,13,Southern,Bonthe,Sogbeni,Southern,Bonthe,Kpanda Kemo
+50,13,Southern,Bo,Bagbo,Southern,Bonthe,Kpanda Kemo
+57,13,Southern,Moyamba,Upper Banta,Southern,Bonthe,Kpanda Kemo
+85,13,Southern,Bo,Bumpe Ngao,Southern,Bonthe,Kpanda Kemo
+90,13,Southern,Bo,Lugbu,Southern,Bonthe,Kpanda Kemo
+1,14,Southern,Pujehun,Yakemu Kpukumu,Southern,Bonthe,Kwamebai Krim
+4,14,Southern,Pujehun,Panga Kabonde,Southern,Bonthe,Kwamebai Krim
+7,14,Southern,Bonthe,Bum,Southern,Bonthe,Kwamebai Krim
+14,14,Southern,Bonthe,Kwamebai Krim,Southern,Bonthe,Kwamebai Krim
+15,14,Southern,Bonthe,Nongoba Bullom,Southern,Bonthe,Kwamebai Krim
+19,14,Southern,Pujehun,Mono Sakrim,Southern,Bonthe,Kwamebai Krim
+32,14,Southern,Bonthe,Yawbeko,Southern,Bonthe,Kwamebai Krim
+14,15,Southern,Bonthe,Kwamebai Krim,Southern,Bonthe,Nongoba Bullom
+15,15,Southern,Bonthe,Nongoba Bullom,Southern,Bonthe,Nongoba Bullom
+25,15,Southern,Bonthe,Bendu-Cha,Southern,Bonthe,Nongoba Bullom
+29,15,Southern,Bonthe,Jong,Southern,Bonthe,Nongoba Bullom
+32,15,Southern,Bonthe,Yawbeko,Southern,Bonthe,Nongoba Bullom
+16,16,Southern,Bonthe,Sittia,Southern,Bonthe,Sittia
+27,16,Southern,Bonthe,Dema,Southern,Bonthe,Sittia
+36,16,Southern,Bonthe,Bonthe Urban,Southern,Bonthe,Sittia
+10,17,Southern,Pujehun,Barri,Southern,Pujehun,Makpele
+17,17,Southern,Pujehun,Makpele,Southern,Pujehun,Makpele
+24,17,Southern,Pujehun,Soro Gbema,Southern,Pujehun,Makpele
+68,17,Eastern,Kenema,Tunkia,Southern,Pujehun,Makpele
+4,18,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Malen
+7,18,Southern,Bonthe,Bum,Southern,Pujehun,Malen
+18,18,Southern,Pujehun,Malen,Southern,Pujehun,Malen
+20,18,Southern,Pujehun,Sowa,Southern,Pujehun,Malen
+50,18,Southern,Bo,Bagbo,Southern,Pujehun,Malen
+81,18,Southern,Bo,Jaiama Bongor,Southern,Pujehun,Malen
+94,18,Southern,Bo,Wonde,Southern,Pujehun,Malen
+1,19,Southern,Pujehun,Yakemu Kpukumu,Southern,Pujehun,Mono Sakrim
+4,19,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Mono Sakrim
+6,19,Southern,Pujehun,Kpaka,Southern,Pujehun,Mono Sakrim
+14,19,Southern,Bonthe,Kwamebai Krim,Southern,Pujehun,Mono Sakrim
+19,19,Southern,Pujehun,Mono Sakrim,Southern,Pujehun,Mono Sakrim
+4,20,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Sowa
+18,20,Southern,Pujehun,Malen,Southern,Pujehun,Sowa
+20,20,Southern,Pujehun,Sowa,Southern,Pujehun,Sowa
+23,20,Southern,Pujehun,Pejeh(Futa peje,Southern,Pujehun,Sowa
+49,20,Eastern,Kenema,Langrama,Southern,Pujehun,Sowa
+94,20,Southern,Bo,Wonde,Southern,Pujehun,Sowa
+1,21,Southern,Pujehun,Yakemu Kpukumu,Southern,Pujehun,Panga krim
+4,21,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Panga krim
+5,21,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Panga krim
+6,21,Southern,Pujehun,Kpaka,Southern,Pujehun,Panga krim
+21,21,Southern,Pujehun,Panga krim,Southern,Pujehun,Panga krim
+22,22,Eastern,Kailahun,Penguia,Eastern,Kailahun,Penguia
+42,22,Eastern,Kailahun,Luawa,Eastern,Kailahun,Penguia
+75,22,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Penguia
+76,22,Eastern,Kailahun,Kpeje West,Eastern,Kailahun,Penguia
+82,22,Eastern,Kailahun,Yawei,Eastern,Kailahun,Penguia
+116,22,Eastern,Kono,Soa,Eastern,Kailahun,Penguia
+117,22,Eastern,Kono,Gbane,Eastern,Kailahun,Penguia
+4,23,Southern,Pujehun,Panga Kabonde,Southern,Pujehun,Pejeh(Futa peje
+5,23,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Pejeh(Futa peje
+10,23,Southern,Pujehun,Barri,Southern,Pujehun,Pejeh(Futa peje
+20,23,Southern,Pujehun,Sowa,Southern,Pujehun,Pejeh(Futa peje
+23,23,Southern,Pujehun,Pejeh(Futa peje,Southern,Pujehun,Pejeh(Futa peje
+49,23,Eastern,Kenema,Langrama,Southern,Pujehun,Pejeh(Futa peje
+62,23,Eastern,Kenema,Niawa,Southern,Pujehun,Pejeh(Futa peje
+5,24,Southern,Pujehun,Galliness Perri,Southern,Pujehun,Soro Gbema
+6,24,Southern,Pujehun,Kpaka,Southern,Pujehun,Soro Gbema
+10,24,Southern,Pujehun,Barri,Southern,Pujehun,Soro Gbema
+17,24,Southern,Pujehun,Makpele,Southern,Pujehun,Soro Gbema
+24,24,Southern,Pujehun,Soro Gbema,Southern,Pujehun,Soro Gbema
+15,25,Southern,Bonthe,Nongoba Bullom,Southern,Bonthe,Bendu-Cha
+25,25,Southern,Bonthe,Bendu-Cha,Southern,Bonthe,Bendu-Cha
+28,25,Southern,Bonthe,Imperri,Southern,Bonthe,Bendu-Cha
+29,25,Southern,Bonthe,Jong,Southern,Bonthe,Bendu-Cha
+26,26,Northern,Koinadugu,Sulima,Northern,Koinadugu,Sulima
+104,26,Northern,Koinadugu,Dembelia - Sink,Northern,Koinadugu,Sulima
+129,26,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Sulima
+132,26,Northern,Koinadugu,Mongo,Northern,Koinadugu,Sulima
+134,26,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Sulima
+16,27,Southern,Bonthe,Sittia,Southern,Bonthe,Dema
+27,27,Southern,Bonthe,Dema,Southern,Bonthe,Dema
+25,28,Southern,Bonthe,Bendu-Cha,Southern,Bonthe,Imperri
+28,28,Southern,Bonthe,Imperri,Southern,Bonthe,Imperri
+29,28,Southern,Bonthe,Jong,Southern,Bonthe,Imperri
+35,28,Southern,Moyamba,Bagruwa,Southern,Bonthe,Imperri
+46,28,Southern,Moyamba,Lower Banta,Southern,Bonthe,Imperri
+57,28,Southern,Moyamba,Upper Banta,Southern,Bonthe,Imperri
+13,29,Southern,Bonthe,Kpanda Kemo,Southern,Bonthe,Jong
+15,29,Southern,Bonthe,Nongoba Bullom,Southern,Bonthe,Jong
+25,29,Southern,Bonthe,Bendu-Cha,Southern,Bonthe,Jong
+28,29,Southern,Bonthe,Imperri,Southern,Bonthe,Jong
+29,29,Southern,Bonthe,Jong,Southern,Bonthe,Jong
+31,29,Southern,Bonthe,Sogbeni,Southern,Bonthe,Jong
+32,29,Southern,Bonthe,Yawbeko,Southern,Bonthe,Jong
+57,29,Southern,Moyamba,Upper Banta,Southern,Bonthe,Jong
+30,30,Northern,Bombali,Sanda Loko,Northern,Bombali,Sanda Loko
+130,30,Northern,Koinadugu,Kasunko,Northern,Bombali,Sanda Loko
+138,30,Northern,Bombali,Biriwa,Northern,Bombali,Sanda Loko
+139,30,Northern,Bombali,Gbanti Kamarank,Northern,Bombali,Sanda Loko
+143,30,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Sanda Loko
+148,30,Northern,Bombali,Sella Limba,Northern,Bombali,Sanda Loko
+154,30,Northern,Kambia,Tonko Limba,Northern,Bombali,Sanda Loko
+7,31,Southern,Bonthe,Bum,Southern,Bonthe,Sogbeni
+13,31,Southern,Bonthe,Kpanda Kemo,Southern,Bonthe,Sogbeni
+29,31,Southern,Bonthe,Jong,Southern,Bonthe,Sogbeni
+31,31,Southern,Bonthe,Sogbeni,Southern,Bonthe,Sogbeni
+32,31,Southern,Bonthe,Yawbeko,Southern,Bonthe,Sogbeni
+7,32,Southern,Bonthe,Bum,Southern,Bonthe,Yawbeko
+14,32,Southern,Bonthe,Kwamebai Krim,Southern,Bonthe,Yawbeko
+15,32,Southern,Bonthe,Nongoba Bullom,Southern,Bonthe,Yawbeko
+29,32,Southern,Bonthe,Jong,Southern,Bonthe,Yawbeko
+31,32,Southern,Bonthe,Sogbeni,Southern,Bonthe,Yawbeko
+32,32,Southern,Bonthe,Yawbeko,Southern,Bonthe,Yawbeko
+33,33,Southern,Moyamba,Dasse,Southern,Moyamba,Dasse
+35,33,Southern,Moyamba,Bagruwa,Southern,Moyamba,Dasse
+44,33,Southern,Moyamba,Kowa,Southern,Moyamba,Dasse
+45,33,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Dasse
+46,33,Southern,Moyamba,Lower Banta,Southern,Moyamba,Dasse
+48,33,Southern,Moyamba,Kamajei,Southern,Moyamba,Dasse
+51,33,Southern,Moyamba,Kori,Southern,Moyamba,Dasse
+85,33,Southern,Bo,Bumpe Ngao,Southern,Moyamba,Dasse
+9,34,Southern,Bo,Valunia,Southern,Bo,Selenga
+34,34,Southern,Bo,Selenga,Southern,Bo,Selenga
+86,34,Southern,Bo,Gbo,Southern,Bo,Selenga
+87,34,Southern,Bo,Kakua,Southern,Bo,Selenga
+92,34,Southern,Bo,Niawa Lenga,Southern,Bo,Selenga
+28,35,Southern,Bonthe,Imperri,Southern,Moyamba,Bagruwa
+33,35,Southern,Moyamba,Dasse,Southern,Moyamba,Bagruwa
+35,35,Southern,Moyamba,Bagruwa,Southern,Moyamba,Bagruwa
+37,35,Southern,Moyamba,Bumpeh,Southern,Moyamba,Bagruwa
+41,35,Southern,Moyamba,Kagboro,Southern,Moyamba,Bagruwa
+45,35,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Bagruwa
+46,35,Southern,Moyamba,Lower Banta,Southern,Moyamba,Bagruwa
+47,35,Southern,Moyamba,Kongbora,Southern,Moyamba,Bagruwa
+56,35,Southern,Moyamba,Timdale,Southern,Moyamba,Bagruwa
+16,36,Southern,Bonthe,Sittia,Southern,Bonthe,Bonthe Urban
+36,36,Southern,Bonthe,Bonthe Urban,Southern,Bonthe,Bonthe Urban
+35,37,Southern,Moyamba,Bagruwa,Southern,Moyamba,Bumpeh
+37,37,Southern,Moyamba,Bumpeh,Southern,Moyamba,Bumpeh
+41,37,Southern,Moyamba,Kagboro,Southern,Moyamba,Bumpeh
+47,37,Southern,Moyamba,Kongbora,Southern,Moyamba,Bumpeh
+53,37,Southern,Moyamba,Ribbi,Southern,Moyamba,Bumpeh
+8,38,Southern,Bo,Komboya,Eastern,Kenema,Simbaru
+38,38,Eastern,Kenema,Simbaru,Eastern,Kenema,Simbaru
+43,38,Eastern,Kenema,Kandu Leppiama,Eastern,Kenema,Simbaru
+55,38,Eastern,Kenema,Dodo,Eastern,Kenema,Simbaru
+67,38,Eastern,Kenema,Wandor,Eastern,Kenema,Simbaru
+83,38,Southern,Bo,Badjia,Eastern,Kenema,Simbaru
+39,39,Southern,Moyamba,Fakunya,Southern,Moyamba,Fakunya
+45,39,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Fakunya
+47,39,Southern,Moyamba,Kongbora,Southern,Moyamba,Fakunya
+51,39,Southern,Moyamba,Kori,Southern,Moyamba,Fakunya
+107,39,Northern,Tonkolili,Yoni,Southern,Moyamba,Fakunya
+40,40,Eastern,Kenema,Gaura,Eastern,Kenema,Gaura
+52,40,Eastern,Kenema,Dama,Eastern,Kenema,Gaura
+64,40,Eastern,Kenema,Nomo,Eastern,Kenema,Gaura
+68,40,Eastern,Kenema,Tunkia,Eastern,Kenema,Gaura
+71,40,Eastern,Kailahun,Jawie,Eastern,Kenema,Gaura
+77,40,Eastern,Kailahun,Malema,Eastern,Kenema,Gaura
+35,41,Southern,Moyamba,Bagruwa,Southern,Moyamba,Kagboro
+37,41,Southern,Moyamba,Bumpeh,Southern,Moyamba,Kagboro
+41,41,Southern,Moyamba,Kagboro,Southern,Moyamba,Kagboro
+56,41,Southern,Moyamba,Timdale,Southern,Moyamba,Kagboro
+22,42,Eastern,Kailahun,Penguia,Eastern,Kailahun,Luawa
+42,42,Eastern,Kailahun,Luawa,Eastern,Kailahun,Luawa
+72,42,Eastern,Kailahun,Kissi Kama,Eastern,Kailahun,Luawa
+73,42,Eastern,Kailahun,Kissi Teng,Eastern,Kailahun,Luawa
+74,42,Eastern,Kailahun,Kissi Tongi,Eastern,Kailahun,Luawa
+75,42,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Luawa
+80,42,Eastern,Kailahun,Upper Bambara,Eastern,Kailahun,Luawa
+38,43,Eastern,Kenema,Simbaru,Eastern,Kenema,Kandu Leppiama
+43,43,Eastern,Kenema,Kandu Leppiama,Eastern,Kenema,Kandu Leppiama
+54,43,Southern,Bo,Boama,Eastern,Kenema,Kandu Leppiama
+55,43,Eastern,Kenema,Dodo,Eastern,Kenema,Kandu Leppiama
+65,43,Eastern,Kenema,Nongowa,Eastern,Kenema,Kandu Leppiama
+66,43,Eastern,Kenema,Small Bo,Eastern,Kenema,Kandu Leppiama
+83,43,Southern,Bo,Badjia,Eastern,Kenema,Kandu Leppiama
+33,44,Southern,Moyamba,Dasse,Southern,Moyamba,Kowa
+44,44,Southern,Moyamba,Kowa,Southern,Moyamba,Kowa
+48,44,Southern,Moyamba,Kamajei,Southern,Moyamba,Kowa
+85,44,Southern,Bo,Bumpe Ngao,Southern,Moyamba,Kowa
+86,44,Southern,Bo,Gbo,Southern,Moyamba,Kowa
+33,45,Southern,Moyamba,Dasse,Southern,Moyamba,Kaiyamba
+35,45,Southern,Moyamba,Bagruwa,Southern,Moyamba,Kaiyamba
+39,45,Southern,Moyamba,Fakunya,Southern,Moyamba,Kaiyamba
+45,45,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Kaiyamba
+47,45,Southern,Moyamba,Kongbora,Southern,Moyamba,Kaiyamba
+51,45,Southern,Moyamba,Kori,Southern,Moyamba,Kaiyamba
+28,46,Southern,Bonthe,Imperri,Southern,Moyamba,Lower Banta
+33,46,Southern,Moyamba,Dasse,Southern,Moyamba,Lower Banta
+35,46,Southern,Moyamba,Bagruwa,Southern,Moyamba,Lower Banta
+46,46,Southern,Moyamba,Lower Banta,Southern,Moyamba,Lower Banta
+57,46,Southern,Moyamba,Upper Banta,Southern,Moyamba,Lower Banta
+85,46,Southern,Bo,Bumpe Ngao,Southern,Moyamba,Lower Banta
+35,47,Southern,Moyamba,Bagruwa,Southern,Moyamba,Kongbora
+37,47,Southern,Moyamba,Bumpeh,Southern,Moyamba,Kongbora
+39,47,Southern,Moyamba,Fakunya,Southern,Moyamba,Kongbora
+45,47,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Kongbora
+47,47,Southern,Moyamba,Kongbora,Southern,Moyamba,Kongbora
+53,47,Southern,Moyamba,Ribbi,Southern,Moyamba,Kongbora
+107,47,Northern,Tonkolili,Yoni,Southern,Moyamba,Kongbora
+9,48,Southern,Bo,Valunia,Southern,Moyamba,Kamajei
+33,48,Southern,Moyamba,Dasse,Southern,Moyamba,Kamajei
+44,48,Southern,Moyamba,Kowa,Southern,Moyamba,Kamajei
+48,48,Southern,Moyamba,Kamajei,Southern,Moyamba,Kamajei
+51,48,Southern,Moyamba,Kori,Southern,Moyamba,Kamajei
+86,48,Southern,Bo,Gbo,Southern,Moyamba,Kamajei
+98,48,Northern,Tonkolili,Gbonkolenken,Southern,Moyamba,Kamajei
+20,49,Southern,Pujehun,Sowa,Eastern,Kenema,Langrama
+23,49,Southern,Pujehun,Pejeh(Futa peje,Eastern,Kenema,Langrama
+49,49,Eastern,Kenema,Langrama,Eastern,Kenema,Langrama
+62,49,Eastern,Kenema,Niawa,Eastern,Kenema,Langrama
+94,49,Southern,Bo,Wonde,Eastern,Kenema,Langrama
+7,50,Southern,Bonthe,Bum,Southern,Bo,Bagbo
+13,50,Southern,Bonthe,Kpanda Kemo,Southern,Bo,Bagbo
+18,50,Southern,Pujehun,Malen,Southern,Bo,Bagbo
+50,50,Southern,Bo,Bagbo,Southern,Bo,Bagbo
+81,50,Southern,Bo,Jaiama Bongor,Southern,Bo,Bagbo
+90,50,Southern,Bo,Lugbu,Southern,Bo,Bagbo
+91,50,Southern,Bo,Tikonko,Southern,Bo,Bagbo
+33,51,Southern,Moyamba,Dasse,Southern,Moyamba,Kori
+39,51,Southern,Moyamba,Fakunya,Southern,Moyamba,Kori
+45,51,Southern,Moyamba,Kaiyamba,Southern,Moyamba,Kori
+48,51,Southern,Moyamba,Kamajei,Southern,Moyamba,Kori
+51,51,Southern,Moyamba,Kori,Southern,Moyamba,Kori
+98,51,Northern,Tonkolili,Gbonkolenken,Southern,Moyamba,Kori
+107,51,Northern,Tonkolili,Yoni,Southern,Moyamba,Kori
+40,52,Eastern,Kenema,Gaura,Eastern,Kenema,Dama
+52,52,Eastern,Kenema,Dama,Eastern,Kenema,Dama
+59,52,Eastern,Kenema,Koya,Eastern,Kenema,Dama
+63,52,Eastern,Kailahun,Njaluahun,Eastern,Kenema,Dama
+65,52,Eastern,Kenema,Nongowa,Eastern,Kenema,Dama
+68,52,Eastern,Kenema,Tunkia,Eastern,Kenema,Dama
+71,52,Eastern,Kailahun,Jawie,Eastern,Kenema,Dama
+2,53,Northern,Port Loko,Koya,Southern,Moyamba,Ribbi
+37,53,Southern,Moyamba,Bumpeh,Southern,Moyamba,Ribbi
+47,53,Southern,Moyamba,Kongbora,Southern,Moyamba,Ribbi
+53,53,Southern,Moyamba,Ribbi,Southern,Moyamba,Ribbi
+107,53,Northern,Tonkolili,Yoni,Southern,Moyamba,Ribbi
+155,53,Western,Western Area Rural,Koya Rural,Southern,Moyamba,Ribbi
+43,54,Eastern,Kenema,Kandu Leppiama,Southern,Bo,Boama
+54,54,Southern,Bo,Boama,Southern,Bo,Boama
+66,54,Eastern,Kenema,Small Bo,Southern,Bo,Boama
+81,54,Southern,Bo,Jaiama Bongor,Southern,Bo,Boama
+83,54,Southern,Bo,Badjia,Southern,Bo,Boama
+84,54,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Boama
+87,54,Southern,Bo,Kakua,Southern,Bo,Boama
+38,55,Eastern,Kenema,Simbaru,Eastern,Kenema,Dodo
+43,55,Eastern,Kenema,Kandu Leppiama,Eastern,Kenema,Dodo
+55,55,Eastern,Kenema,Dodo,Eastern,Kenema,Dodo
+60,55,Eastern,Kenema,Lower Bambara,Eastern,Kenema,Dodo
+65,55,Eastern,Kenema,Nongowa,Eastern,Kenema,Dodo
+67,55,Eastern,Kenema,Wandor,Eastern,Kenema,Dodo
+166,55,Eastern,Kono,Gorama Kono,Eastern,Kenema,Dodo
+35,56,Southern,Moyamba,Bagruwa,Southern,Moyamba,Timdale
+41,56,Southern,Moyamba,Kagboro,Southern,Moyamba,Timdale
+56,56,Southern,Moyamba,Timdale,Southern,Moyamba,Timdale
+13,57,Southern,Bonthe,Kpanda Kemo,Southern,Moyamba,Upper Banta
+28,57,Southern,Bonthe,Imperri,Southern,Moyamba,Upper Banta
+29,57,Southern,Bonthe,Jong,Southern,Moyamba,Upper Banta
+46,57,Southern,Moyamba,Lower Banta,Southern,Moyamba,Upper Banta
+57,57,Southern,Moyamba,Upper Banta,Southern,Moyamba,Upper Banta
+85,57,Southern,Bo,Bumpe Ngao,Southern,Moyamba,Upper Banta
+8,58,Southern,Bo,Komboya,Eastern,Kenema,Gorama Mende
+9,58,Southern,Bo,Valunia,Eastern,Kenema,Gorama Mende
+58,58,Eastern,Kenema,Gorama Mende,Eastern,Kenema,Gorama Mende
+67,58,Eastern,Kenema,Wandor,Eastern,Kenema,Gorama Mende
+97,58,Northern,Tonkolili,Kunike Barina,Eastern,Kenema,Gorama Mende
+103,58,Northern,Tonkolili,Kunike,Eastern,Kenema,Gorama Mende
+125,58,Eastern,Kono,Nimiyama,Eastern,Kenema,Gorama Mende
+166,58,Eastern,Kono,Gorama Kono,Eastern,Kenema,Gorama Mende
+10,59,Southern,Pujehun,Barri,Eastern,Kenema,Koya
+52,59,Eastern,Kenema,Dama,Eastern,Kenema,Koya
+59,59,Eastern,Kenema,Koya,Eastern,Kenema,Koya
+62,59,Eastern,Kenema,Niawa,Eastern,Kenema,Koya
+65,59,Eastern,Kenema,Nongowa,Eastern,Kenema,Koya
+66,59,Eastern,Kenema,Small Bo,Eastern,Kenema,Koya
+68,59,Eastern,Kenema,Tunkia,Eastern,Kenema,Koya
+55,60,Eastern,Kenema,Dodo,Eastern,Kenema,Lower Bambara
+60,60,Eastern,Kenema,Lower Bambara,Eastern,Kenema,Lower Bambara
+61,60,Eastern,Kenema,Malegohun,Eastern,Kenema,Lower Bambara
+65,60,Eastern,Kenema,Nongowa,Eastern,Kenema,Lower Bambara
+117,60,Eastern,Kono,Gbane,Eastern,Kenema,Lower Bambara
+166,60,Eastern,Kono,Gorama Kono,Eastern,Kenema,Lower Bambara
+60,61,Eastern,Kenema,Lower Bambara,Eastern,Kenema,Malegohun
+61,61,Eastern,Kenema,Malegohun,Eastern,Kenema,Malegohun
+63,61,Eastern,Kailahun,Njaluahun,Eastern,Kenema,Malegohun
+65,61,Eastern,Kenema,Nongowa,Eastern,Kenema,Malegohun
+76,61,Eastern,Kailahun,Kpeje West,Eastern,Kenema,Malegohun
+82,61,Eastern,Kailahun,Yawei,Eastern,Kenema,Malegohun
+117,61,Eastern,Kono,Gbane,Eastern,Kenema,Malegohun
+10,62,Southern,Pujehun,Barri,Eastern,Kenema,Niawa
+23,62,Southern,Pujehun,Pejeh(Futa peje,Eastern,Kenema,Niawa
+49,62,Eastern,Kenema,Langrama,Eastern,Kenema,Niawa
+59,62,Eastern,Kenema,Koya,Eastern,Kenema,Niawa
+62,62,Eastern,Kenema,Niawa,Eastern,Kenema,Niawa
+66,62,Eastern,Kenema,Small Bo,Eastern,Kenema,Niawa
+94,62,Southern,Bo,Wonde,Eastern,Kenema,Niawa
+52,63,Eastern,Kenema,Dama,Eastern,Kailahun,Njaluahun
+61,63,Eastern,Kenema,Malegohun,Eastern,Kailahun,Njaluahun
+63,63,Eastern,Kailahun,Njaluahun,Eastern,Kailahun,Njaluahun
+65,63,Eastern,Kenema,Nongowa,Eastern,Kailahun,Njaluahun
+71,63,Eastern,Kailahun,Jawie,Eastern,Kailahun,Njaluahun
+75,63,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Njaluahun
+76,63,Eastern,Kailahun,Kpeje West,Eastern,Kailahun,Njaluahun
+40,64,Eastern,Kenema,Gaura,Eastern,Kenema,Nomo
+64,64,Eastern,Kenema,Nomo,Eastern,Kenema,Nomo
+68,64,Eastern,Kenema,Tunkia,Eastern,Kenema,Nomo
+77,64,Eastern,Kailahun,Malema,Eastern,Kenema,Nomo
+43,65,Eastern,Kenema,Kandu Leppiama,Eastern,Kenema,Nongowa
+52,65,Eastern,Kenema,Dama,Eastern,Kenema,Nongowa
+55,65,Eastern,Kenema,Dodo,Eastern,Kenema,Nongowa
+59,65,Eastern,Kenema,Koya,Eastern,Kenema,Nongowa
+60,65,Eastern,Kenema,Lower Bambara,Eastern,Kenema,Nongowa
+61,65,Eastern,Kenema,Malegohun,Eastern,Kenema,Nongowa
+63,65,Eastern,Kailahun,Njaluahun,Eastern,Kenema,Nongowa
+65,65,Eastern,Kenema,Nongowa,Eastern,Kenema,Nongowa
+66,65,Eastern,Kenema,Small Bo,Eastern,Kenema,Nongowa
+69,65,Eastern,Kenema,Kenema Town,Eastern,Kenema,Nongowa
+43,66,Eastern,Kenema,Kandu Leppiama,Eastern,Kenema,Small Bo
+54,66,Southern,Bo,Boama,Eastern,Kenema,Small Bo
+59,66,Eastern,Kenema,Koya,Eastern,Kenema,Small Bo
+62,66,Eastern,Kenema,Niawa,Eastern,Kenema,Small Bo
+65,66,Eastern,Kenema,Nongowa,Eastern,Kenema,Small Bo
+66,66,Eastern,Kenema,Small Bo,Eastern,Kenema,Small Bo
+81,66,Southern,Bo,Jaiama Bongor,Eastern,Kenema,Small Bo
+94,66,Southern,Bo,Wonde,Eastern,Kenema,Small Bo
+8,67,Southern,Bo,Komboya,Eastern,Kenema,Wandor
+38,67,Eastern,Kenema,Simbaru,Eastern,Kenema,Wandor
+55,67,Eastern,Kenema,Dodo,Eastern,Kenema,Wandor
+58,67,Eastern,Kenema,Gorama Mende,Eastern,Kenema,Wandor
+67,67,Eastern,Kenema,Wandor,Eastern,Kenema,Wandor
+166,67,Eastern,Kono,Gorama Kono,Eastern,Kenema,Wandor
+10,68,Southern,Pujehun,Barri,Eastern,Kenema,Tunkia
+17,68,Southern,Pujehun,Makpele,Eastern,Kenema,Tunkia
+40,68,Eastern,Kenema,Gaura,Eastern,Kenema,Tunkia
+52,68,Eastern,Kenema,Dama,Eastern,Kenema,Tunkia
+59,68,Eastern,Kenema,Koya,Eastern,Kenema,Tunkia
+64,68,Eastern,Kenema,Nomo,Eastern,Kenema,Tunkia
+68,68,Eastern,Kenema,Tunkia,Eastern,Kenema,Tunkia
+65,69,Eastern,Kenema,Nongowa,Eastern,Kenema,Kenema Town
+69,69,Eastern,Kenema,Kenema Town,Eastern,Kenema,Kenema Town
+70,70,Eastern,Kailahun,Dea,Eastern,Kailahun,Dea
+77,70,Eastern,Kailahun,Malema,Eastern,Kailahun,Dea
+78,70,Eastern,Kailahun,Mandu,Eastern,Kailahun,Dea
+80,70,Eastern,Kailahun,Upper Bambara,Eastern,Kailahun,Dea
+40,71,Eastern,Kenema,Gaura,Eastern,Kailahun,Jawie
+52,71,Eastern,Kenema,Dama,Eastern,Kailahun,Jawie
+63,71,Eastern,Kailahun,Njaluahun,Eastern,Kailahun,Jawie
+71,71,Eastern,Kailahun,Jawie,Eastern,Kailahun,Jawie
+75,71,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Jawie
+77,71,Eastern,Kailahun,Malema,Eastern,Kailahun,Jawie
+78,71,Eastern,Kailahun,Mandu,Eastern,Kailahun,Jawie
+42,72,Eastern,Kailahun,Luawa,Eastern,Kailahun,Kissi Kama
+72,72,Eastern,Kailahun,Kissi Kama,Eastern,Kailahun,Kissi Kama
+73,72,Eastern,Kailahun,Kissi Teng,Eastern,Kailahun,Kissi Kama
+42,73,Eastern,Kailahun,Luawa,Eastern,Kailahun,Kissi Teng
+72,73,Eastern,Kailahun,Kissi Kama,Eastern,Kailahun,Kissi Teng
+73,73,Eastern,Kailahun,Kissi Teng,Eastern,Kailahun,Kissi Teng
+74,73,Eastern,Kailahun,Kissi Tongi,Eastern,Kailahun,Kissi Teng
+42,74,Eastern,Kailahun,Luawa,Eastern,Kailahun,Kissi Tongi
+73,74,Eastern,Kailahun,Kissi Teng,Eastern,Kailahun,Kissi Tongi
+74,74,Eastern,Kailahun,Kissi Tongi,Eastern,Kailahun,Kissi Tongi
+22,75,Eastern,Kailahun,Penguia,Eastern,Kailahun,Kpeje Bongre
+42,75,Eastern,Kailahun,Luawa,Eastern,Kailahun,Kpeje Bongre
+63,75,Eastern,Kailahun,Njaluahun,Eastern,Kailahun,Kpeje Bongre
+71,75,Eastern,Kailahun,Jawie,Eastern,Kailahun,Kpeje Bongre
+75,75,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Kpeje Bongre
+76,75,Eastern,Kailahun,Kpeje West,Eastern,Kailahun,Kpeje Bongre
+78,75,Eastern,Kailahun,Mandu,Eastern,Kailahun,Kpeje Bongre
+80,75,Eastern,Kailahun,Upper Bambara,Eastern,Kailahun,Kpeje Bongre
+22,76,Eastern,Kailahun,Penguia,Eastern,Kailahun,Kpeje West
+61,76,Eastern,Kenema,Malegohun,Eastern,Kailahun,Kpeje West
+63,76,Eastern,Kailahun,Njaluahun,Eastern,Kailahun,Kpeje West
+75,76,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Kpeje West
+76,76,Eastern,Kailahun,Kpeje West,Eastern,Kailahun,Kpeje West
+82,76,Eastern,Kailahun,Yawei,Eastern,Kailahun,Kpeje West
+40,77,Eastern,Kenema,Gaura,Eastern,Kailahun,Malema
+64,77,Eastern,Kenema,Nomo,Eastern,Kailahun,Malema
+70,77,Eastern,Kailahun,Dea,Eastern,Kailahun,Malema
+71,77,Eastern,Kailahun,Jawie,Eastern,Kailahun,Malema
+77,77,Eastern,Kailahun,Malema,Eastern,Kailahun,Malema
+78,77,Eastern,Kailahun,Mandu,Eastern,Kailahun,Malema
+70,78,Eastern,Kailahun,Dea,Eastern,Kailahun,Mandu
+71,78,Eastern,Kailahun,Jawie,Eastern,Kailahun,Mandu
+75,78,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Mandu
+77,78,Eastern,Kailahun,Malema,Eastern,Kailahun,Mandu
+78,78,Eastern,Kailahun,Mandu,Eastern,Kailahun,Mandu
+80,78,Eastern,Kailahun,Upper Bambara,Eastern,Kailahun,Mandu
+12,79,Northern,Kambia,Bramaia,Northern,Kambia,Gbinle Dixing
+79,79,Northern,Kambia,Gbinle Dixing,Northern,Kambia,Gbinle Dixing
+151,79,Northern,Kambia,Magbema,Northern,Kambia,Gbinle Dixing
+153,79,Northern,Kambia,Samu,Northern,Kambia,Gbinle Dixing
+42,80,Eastern,Kailahun,Luawa,Eastern,Kailahun,Upper Bambara
+70,80,Eastern,Kailahun,Dea,Eastern,Kailahun,Upper Bambara
+75,80,Eastern,Kailahun,Kpeje Bongre,Eastern,Kailahun,Upper Bambara
+78,80,Eastern,Kailahun,Mandu,Eastern,Kailahun,Upper Bambara
+80,80,Eastern,Kailahun,Upper Bambara,Eastern,Kailahun,Upper Bambara
+18,81,Southern,Pujehun,Malen,Southern,Bo,Jaiama Bongor
+50,81,Southern,Bo,Bagbo,Southern,Bo,Jaiama Bongor
+54,81,Southern,Bo,Boama,Southern,Bo,Jaiama Bongor
+66,81,Eastern,Kenema,Small Bo,Southern,Bo,Jaiama Bongor
+81,81,Southern,Bo,Jaiama Bongor,Southern,Bo,Jaiama Bongor
+87,81,Southern,Bo,Kakua,Southern,Bo,Jaiama Bongor
+91,81,Southern,Bo,Tikonko,Southern,Bo,Jaiama Bongor
+94,81,Southern,Bo,Wonde,Southern,Bo,Jaiama Bongor
+22,82,Eastern,Kailahun,Penguia,Eastern,Kailahun,Yawei
+61,82,Eastern,Kenema,Malegohun,Eastern,Kailahun,Yawei
+76,82,Eastern,Kailahun,Kpeje West,Eastern,Kailahun,Yawei
+82,82,Eastern,Kailahun,Yawei,Eastern,Kailahun,Yawei
+117,82,Eastern,Kono,Gbane,Eastern,Kailahun,Yawei
+8,83,Southern,Bo,Komboya,Southern,Bo,Badjia
+38,83,Eastern,Kenema,Simbaru,Southern,Bo,Badjia
+43,83,Eastern,Kenema,Kandu Leppiama,Southern,Bo,Badjia
+54,83,Southern,Bo,Boama,Southern,Bo,Badjia
+83,83,Southern,Bo,Badjia,Southern,Bo,Badjia
+84,83,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Badjia
+8,84,Southern,Bo,Komboya,Southern,Bo,Bagbwe(Bagbe)
+54,84,Southern,Bo,Boama,Southern,Bo,Bagbwe(Bagbe)
+83,84,Southern,Bo,Badjia,Southern,Bo,Bagbwe(Bagbe)
+84,84,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Bagbwe(Bagbe)
+87,84,Southern,Bo,Kakua,Southern,Bo,Bagbwe(Bagbe)
+92,84,Southern,Bo,Niawa Lenga,Southern,Bo,Bagbwe(Bagbe)
+13,85,Southern,Bonthe,Kpanda Kemo,Southern,Bo,Bumpe Ngao
+33,85,Southern,Moyamba,Dasse,Southern,Bo,Bumpe Ngao
+44,85,Southern,Moyamba,Kowa,Southern,Bo,Bumpe Ngao
+46,85,Southern,Moyamba,Lower Banta,Southern,Bo,Bumpe Ngao
+57,85,Southern,Moyamba,Upper Banta,Southern,Bo,Bumpe Ngao
+85,85,Southern,Bo,Bumpe Ngao,Southern,Bo,Bumpe Ngao
+86,85,Southern,Bo,Gbo,Southern,Bo,Bumpe Ngao
+90,85,Southern,Bo,Lugbu,Southern,Bo,Bumpe Ngao
+91,85,Southern,Bo,Tikonko,Southern,Bo,Bumpe Ngao
+9,86,Southern,Bo,Valunia,Southern,Bo,Gbo
+34,86,Southern,Bo,Selenga,Southern,Bo,Gbo
+44,86,Southern,Moyamba,Kowa,Southern,Bo,Gbo
+48,86,Southern,Moyamba,Kamajei,Southern,Bo,Gbo
+85,86,Southern,Bo,Bumpe Ngao,Southern,Bo,Gbo
+86,86,Southern,Bo,Gbo,Southern,Bo,Gbo
+87,86,Southern,Bo,Kakua,Southern,Bo,Gbo
+91,86,Southern,Bo,Tikonko,Southern,Bo,Gbo
+34,87,Southern,Bo,Selenga,Southern,Bo,Kakua
+54,87,Southern,Bo,Boama,Southern,Bo,Kakua
+81,87,Southern,Bo,Jaiama Bongor,Southern,Bo,Kakua
+84,87,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Kakua
+86,87,Southern,Bo,Gbo,Southern,Bo,Kakua
+87,87,Southern,Bo,Kakua,Southern,Bo,Kakua
+91,87,Southern,Bo,Tikonko,Southern,Bo,Kakua
+92,87,Southern,Bo,Niawa Lenga,Southern,Bo,Kakua
+95,87,Southern,Bo,Bo Town,Southern,Bo,Kakua
+88,88,Northern,Tonkolili,Kalansogoia,Northern,Tonkolili,Kalansogoia
+99,88,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Kalansogoia
+105,88,Northern,Tonkolili,Sambaya,Northern,Tonkolili,Kalansogoia
+128,88,Northern,Koinadugu,Diang,Northern,Tonkolili,Kalansogoia
+130,88,Northern,Koinadugu,Kasunko,Northern,Tonkolili,Kalansogoia
+138,88,Northern,Bombali,Biriwa,Northern,Tonkolili,Kalansogoia
+146,88,Northern,Bombali,Safroko Limba,Northern,Tonkolili,Kalansogoia
+2,89,Northern,Port Loko,Koya,Northern,Port Loko,Marampa
+11,89,Northern,Port Loko,Buya Romende,Northern,Port Loko,Marampa
+89,89,Northern,Port Loko,Marampa,Northern,Port Loko,Marampa
+93,89,Northern,Port Loko,Maforki,Northern,Port Loko,Marampa
+100,89,Northern,Tonkolili,Malal Mara,Northern,Port Loko,Marampa
+110,89,Northern,Port Loko,Masimera,Northern,Port Loko,Marampa
+145,89,Northern,Bombali,Makari Gbanti,Northern,Port Loko,Marampa
+13,90,Southern,Bonthe,Kpanda Kemo,Southern,Bo,Lugbu
+50,90,Southern,Bo,Bagbo,Southern,Bo,Lugbu
+85,90,Southern,Bo,Bumpe Ngao,Southern,Bo,Lugbu
+90,90,Southern,Bo,Lugbu,Southern,Bo,Lugbu
+91,90,Southern,Bo,Tikonko,Southern,Bo,Lugbu
+50,91,Southern,Bo,Bagbo,Southern,Bo,Tikonko
+81,91,Southern,Bo,Jaiama Bongor,Southern,Bo,Tikonko
+85,91,Southern,Bo,Bumpe Ngao,Southern,Bo,Tikonko
+86,91,Southern,Bo,Gbo,Southern,Bo,Tikonko
+87,91,Southern,Bo,Kakua,Southern,Bo,Tikonko
+90,91,Southern,Bo,Lugbu,Southern,Bo,Tikonko
+91,91,Southern,Bo,Tikonko,Southern,Bo,Tikonko
+95,91,Southern,Bo,Bo Town,Southern,Bo,Tikonko
+8,92,Southern,Bo,Komboya,Southern,Bo,Niawa Lenga
+9,92,Southern,Bo,Valunia,Southern,Bo,Niawa Lenga
+34,92,Southern,Bo,Selenga,Southern,Bo,Niawa Lenga
+84,92,Southern,Bo,Bagbwe(Bagbe),Southern,Bo,Niawa Lenga
+87,92,Southern,Bo,Kakua,Southern,Bo,Niawa Lenga
+92,92,Southern,Bo,Niawa Lenga,Southern,Bo,Niawa Lenga
+2,93,Northern,Port Loko,Koya,Northern,Port Loko,Maforki
+3,93,Northern,Port Loko,Bureh Kasseh Ma,Northern,Port Loko,Maforki
+11,93,Northern,Port Loko,Buya Romende,Northern,Port Loko,Maforki
+89,93,Northern,Port Loko,Marampa,Northern,Port Loko,Maforki
+93,93,Northern,Port Loko,Maforki,Northern,Port Loko,Maforki
+96,93,Northern,Port Loko,Dibia,Northern,Port Loko,Maforki
+109,93,Northern,Port Loko,Lokomasama,Northern,Port Loko,Maforki
+113,93,Northern,Port Loko,TMS,Northern,Port Loko,Maforki
+18,94,Southern,Pujehun,Malen,Southern,Bo,Wonde
+20,94,Southern,Pujehun,Sowa,Southern,Bo,Wonde
+49,94,Eastern,Kenema,Langrama,Southern,Bo,Wonde
+62,94,Eastern,Kenema,Niawa,Southern,Bo,Wonde
+66,94,Eastern,Kenema,Small Bo,Southern,Bo,Wonde
+81,94,Southern,Bo,Jaiama Bongor,Southern,Bo,Wonde
+94,94,Southern,Bo,Wonde,Southern,Bo,Wonde
+87,95,Southern,Bo,Kakua,Southern,Bo,Bo Town
+91,95,Southern,Bo,Tikonko,Southern,Bo,Bo Town
+95,95,Southern,Bo,Bo Town,Southern,Bo,Bo Town
+3,96,Northern,Port Loko,Bureh Kasseh Ma,Northern,Port Loko,Dibia
+93,96,Northern,Port Loko,Maforki,Northern,Port Loko,Dibia
+96,96,Northern,Port Loko,Dibia,Northern,Port Loko,Dibia
+111,96,Northern,Port Loko,Sanda Magbolont,Northern,Port Loko,Dibia
+113,96,Northern,Port Loko,TMS,Northern,Port Loko,Dibia
+142,96,Northern,Bombali,Libeisaygahun,Northern,Port Loko,Dibia
+9,97,Southern,Bo,Valunia,Northern,Tonkolili,Kunike Barina
+58,97,Eastern,Kenema,Gorama Mende,Northern,Tonkolili,Kunike Barina
+97,97,Northern,Tonkolili,Kunike Barina,Northern,Tonkolili,Kunike Barina
+98,97,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Kunike Barina
+103,97,Northern,Tonkolili,Kunike,Northern,Tonkolili,Kunike Barina
+106,97,Northern,Tonkolili,Tane,Northern,Tonkolili,Kunike Barina
+9,98,Southern,Bo,Valunia,Northern,Tonkolili,Gbonkolenken
+48,98,Southern,Moyamba,Kamajei,Northern,Tonkolili,Gbonkolenken
+51,98,Southern,Moyamba,Kori,Northern,Tonkolili,Gbonkolenken
+97,98,Northern,Tonkolili,Kunike Barina,Northern,Tonkolili,Gbonkolenken
+98,98,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Gbonkolenken
+101,98,Northern,Tonkolili,Kholifa Mabang,Northern,Tonkolili,Gbonkolenken
+102,98,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Gbonkolenken
+106,98,Northern,Tonkolili,Tane,Northern,Tonkolili,Gbonkolenken
+107,98,Northern,Tonkolili,Yoni,Northern,Tonkolili,Gbonkolenken
+88,99,Northern,Tonkolili,Kalansogoia,Northern,Tonkolili,Kafe Simiria
+99,99,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Kafe Simiria
+102,99,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Kafe Simiria
+103,99,Northern,Tonkolili,Kunike,Northern,Tonkolili,Kafe Simiria
+105,99,Northern,Tonkolili,Sambaya,Northern,Tonkolili,Kafe Simiria
+106,99,Northern,Tonkolili,Tane,Northern,Tonkolili,Kafe Simiria
+144,99,Northern,Bombali,Paki Masabong,Northern,Tonkolili,Kafe Simiria
+146,99,Northern,Bombali,Safroko Limba,Northern,Tonkolili,Kafe Simiria
+89,100,Northern,Port Loko,Marampa,Northern,Tonkolili,Malal Mara
+100,100,Northern,Tonkolili,Malal Mara,Northern,Tonkolili,Malal Mara
+101,100,Northern,Tonkolili,Kholifa Mabang,Northern,Tonkolili,Malal Mara
+102,100,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Malal Mara
+110,100,Northern,Port Loko,Masimera,Northern,Tonkolili,Malal Mara
+140,100,Northern,Bombali,Bombali Sebora,Northern,Tonkolili,Malal Mara
+145,100,Northern,Bombali,Makari Gbanti,Northern,Tonkolili,Malal Mara
+98,101,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Kholifa Mabang
+100,101,Northern,Tonkolili,Malal Mara,Northern,Tonkolili,Kholifa Mabang
+101,101,Northern,Tonkolili,Kholifa Mabang,Northern,Tonkolili,Kholifa Mabang
+102,101,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Kholifa Mabang
+107,101,Northern,Tonkolili,Yoni,Northern,Tonkolili,Kholifa Mabang
+110,101,Northern,Port Loko,Masimera,Northern,Tonkolili,Kholifa Mabang
+98,102,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Kholifa Rowala
+99,102,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Kholifa Rowala
+100,102,Northern,Tonkolili,Malal Mara,Northern,Tonkolili,Kholifa Rowala
+101,102,Northern,Tonkolili,Kholifa Mabang,Northern,Tonkolili,Kholifa Rowala
+102,102,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Kholifa Rowala
+106,102,Northern,Tonkolili,Tane,Northern,Tonkolili,Kholifa Rowala
+140,102,Northern,Bombali,Bombali Sebora,Northern,Tonkolili,Kholifa Rowala
+144,102,Northern,Bombali,Paki Masabong,Northern,Tonkolili,Kholifa Rowala
+58,103,Eastern,Kenema,Gorama Mende,Northern,Tonkolili,Kunike
+97,103,Northern,Tonkolili,Kunike Barina,Northern,Tonkolili,Kunike
+99,103,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Kunike
+103,103,Northern,Tonkolili,Kunike,Northern,Tonkolili,Kunike
+105,103,Northern,Tonkolili,Sambaya,Northern,Tonkolili,Kunike
+106,103,Northern,Tonkolili,Tane,Northern,Tonkolili,Kunike
+125,103,Eastern,Kono,Nimiyama,Northern,Tonkolili,Kunike
+135,103,Northern,Koinadugu,Nieni,Northern,Tonkolili,Kunike
+26,104,Northern,Koinadugu,Sulima,Northern,Koinadugu,Dembelia - Sink
+104,104,Northern,Koinadugu,Dembelia - Sink,Northern,Koinadugu,Dembelia - Sink
+129,104,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Dembelia - Sink
+88,105,Northern,Tonkolili,Kalansogoia,Northern,Tonkolili,Sambaya
+99,105,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Sambaya
+103,105,Northern,Tonkolili,Kunike,Northern,Tonkolili,Sambaya
+105,105,Northern,Tonkolili,Sambaya,Northern,Tonkolili,Sambaya
+128,105,Northern,Koinadugu,Diang,Northern,Tonkolili,Sambaya
+135,105,Northern,Koinadugu,Nieni,Northern,Tonkolili,Sambaya
+97,106,Northern,Tonkolili,Kunike Barina,Northern,Tonkolili,Tane
+98,106,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Tane
+99,106,Northern,Tonkolili,Kafe Simiria,Northern,Tonkolili,Tane
+102,106,Northern,Tonkolili,Kholifa Rowala,Northern,Tonkolili,Tane
+103,106,Northern,Tonkolili,Kunike,Northern,Tonkolili,Tane
+106,106,Northern,Tonkolili,Tane,Northern,Tonkolili,Tane
+2,107,Northern,Port Loko,Koya,Northern,Tonkolili,Yoni
+39,107,Southern,Moyamba,Fakunya,Northern,Tonkolili,Yoni
+47,107,Southern,Moyamba,Kongbora,Northern,Tonkolili,Yoni
+51,107,Southern,Moyamba,Kori,Northern,Tonkolili,Yoni
+53,107,Southern,Moyamba,Ribbi,Northern,Tonkolili,Yoni
+98,107,Northern,Tonkolili,Gbonkolenken,Northern,Tonkolili,Yoni
+101,107,Northern,Tonkolili,Kholifa Mabang,Northern,Tonkolili,Yoni
+107,107,Northern,Tonkolili,Yoni,Northern,Tonkolili,Yoni
+110,107,Northern,Port Loko,Masimera,Northern,Tonkolili,Yoni
+108,108,Northern,Port Loko,Kaffu Bullom,Northern,Port Loko,Kaffu Bullom
+109,108,Northern,Port Loko,Lokomasama,Northern,Port Loko,Kaffu Bullom
+3,109,Northern,Port Loko,Bureh Kasseh Ma,Northern,Port Loko,Lokomasama
+93,109,Northern,Port Loko,Maforki,Northern,Port Loko,Lokomasama
+108,109,Northern,Port Loko,Kaffu Bullom,Northern,Port Loko,Lokomasama
+109,109,Northern,Port Loko,Lokomasama,Northern,Port Loko,Lokomasama
+136,109,Northern,Kambia,Mambolo,Northern,Port Loko,Lokomasama
+2,110,Northern,Port Loko,Koya,Northern,Port Loko,Masimera
+89,110,Northern,Port Loko,Marampa,Northern,Port Loko,Masimera
+100,110,Northern,Tonkolili,Malal Mara,Northern,Port Loko,Masimera
+101,110,Northern,Tonkolili,Kholifa Mabang,Northern,Port Loko,Masimera
+107,110,Northern,Tonkolili,Yoni,Northern,Port Loko,Masimera
+110,110,Northern,Port Loko,Masimera,Northern,Port Loko,Masimera
+3,111,Northern,Port Loko,Bureh Kasseh Ma,Northern,Port Loko,Sanda Magbolont
+96,111,Northern,Port Loko,Dibia,Northern,Port Loko,Sanda Magbolont
+111,111,Northern,Port Loko,Sanda Magbolont,Northern,Port Loko,Sanda Magbolont
+139,111,Northern,Bombali,Gbanti Kamarank,Northern,Port Loko,Sanda Magbolont
+142,111,Northern,Bombali,Libeisaygahun,Northern,Port Loko,Sanda Magbolont
+147,111,Northern,Bombali,Sanda Tendaran,Northern,Port Loko,Sanda Magbolont
+152,111,Northern,Kambia,Masungbala,Northern,Port Loko,Sanda Magbolont
+154,111,Northern,Kambia,Tonko Limba,Northern,Port Loko,Sanda Magbolont
+112,112,Eastern,Kono,Fiama,Eastern,Kono,Fiama
+114,112,Eastern,Kono,Lei,Eastern,Kono,Fiama
+116,112,Eastern,Kono,Soa,Eastern,Kono,Fiama
+117,112,Eastern,Kono,Gbane,Eastern,Kono,Fiama
+119,112,Eastern,Kono,Gbense,Eastern,Kono,Fiama
+123,112,Eastern,Kono,Tankoro,Eastern,Kono,Fiama
+11,113,Northern,Port Loko,Buya Romende,Northern,Port Loko,TMS
+93,113,Northern,Port Loko,Maforki,Northern,Port Loko,TMS
+96,113,Northern,Port Loko,Dibia,Northern,Port Loko,TMS
+113,113,Northern,Port Loko,TMS,Northern,Port Loko,TMS
+142,113,Northern,Bombali,Libeisaygahun,Northern,Port Loko,TMS
+112,114,Eastern,Kono,Fiama,Eastern,Kono,Lei
+114,114,Eastern,Kono,Lei,Eastern,Kono,Lei
+116,114,Eastern,Kono,Soa,Eastern,Kono,Lei
+118,114,Eastern,Kono,Gbane Kandor,Eastern,Kono,Lei
+119,114,Eastern,Kono,Gbense,Eastern,Kono,Lei
+121,114,Eastern,Kono,Mafindor,Eastern,Kono,Lei
+126,114,Eastern,Kono,Sandor,Eastern,Kono,Lei
+127,114,Eastern,Kono,Toli,Eastern,Kono,Lei
+133,114,Northern,Koinadugu,Neya,Eastern,Kono,Lei
+22,116,Eastern,Kailahun,Penguia,Eastern,Kono,Soa
+112,116,Eastern,Kono,Fiama,Eastern,Kono,Soa
+114,116,Eastern,Kono,Lei,Eastern,Kono,Soa
+116,116,Eastern,Kono,Soa,Eastern,Kono,Soa
+117,116,Eastern,Kono,Gbane,Eastern,Kono,Soa
+118,116,Eastern,Kono,Gbane Kandor,Eastern,Kono,Soa
+22,117,Eastern,Kailahun,Penguia,Eastern,Kono,Gbane
+60,117,Eastern,Kenema,Lower Bambara,Eastern,Kono,Gbane
+61,117,Eastern,Kenema,Malegohun,Eastern,Kono,Gbane
+82,117,Eastern,Kailahun,Yawei,Eastern,Kono,Gbane
+112,117,Eastern,Kono,Fiama,Eastern,Kono,Gbane
+116,117,Eastern,Kono,Soa,Eastern,Kono,Gbane
+117,117,Eastern,Kono,Gbane,Eastern,Kono,Gbane
+123,117,Eastern,Kono,Tankoro,Eastern,Kono,Gbane
+166,117,Eastern,Kono,Gorama Kono,Eastern,Kono,Gbane
+114,118,Eastern,Kono,Lei,Eastern,Kono,Gbane Kandor
+116,118,Eastern,Kono,Soa,Eastern,Kono,Gbane Kandor
+118,118,Eastern,Kono,Gbane Kandor,Eastern,Kono,Gbane Kandor
+121,118,Eastern,Kono,Mafindor,Eastern,Kono,Gbane Kandor
+112,119,Eastern,Kono,Fiama,Eastern,Kono,Gbense
+114,119,Eastern,Kono,Lei,Eastern,Kono,Gbense
+119,119,Eastern,Kono,Gbense,Eastern,Kono,Gbense
+120,119,Eastern,Kono,Kamara,Eastern,Kono,Gbense
+122,119,Eastern,Kono,Nimikoro,Eastern,Kono,Gbense
+123,119,Eastern,Kono,Tankoro,Eastern,Kono,Gbense
+124,119,Eastern,Kono,Koidu Town,Eastern,Kono,Gbense
+126,119,Eastern,Kono,Sandor,Eastern,Kono,Gbense
+119,120,Eastern,Kono,Gbense,Eastern,Kono,Kamara
+120,120,Eastern,Kono,Kamara,Eastern,Kono,Kamara
+122,120,Eastern,Kono,Nimikoro,Eastern,Kono,Kamara
+126,120,Eastern,Kono,Sandor,Eastern,Kono,Kamara
+114,121,Eastern,Kono,Lei,Eastern,Kono,Mafindor
+118,121,Eastern,Kono,Gbane Kandor,Eastern,Kono,Mafindor
+121,121,Eastern,Kono,Mafindor,Eastern,Kono,Mafindor
+119,122,Eastern,Kono,Gbense,Eastern,Kono,Nimikoro
+120,122,Eastern,Kono,Kamara,Eastern,Kono,Nimikoro
+122,122,Eastern,Kono,Nimikoro,Eastern,Kono,Nimikoro
+123,122,Eastern,Kono,Tankoro,Eastern,Kono,Nimikoro
+124,122,Eastern,Kono,Koidu Town,Eastern,Kono,Nimikoro
+125,122,Eastern,Kono,Nimiyama,Eastern,Kono,Nimikoro
+126,122,Eastern,Kono,Sandor,Eastern,Kono,Nimikoro
+166,122,Eastern,Kono,Gorama Kono,Eastern,Kono,Nimikoro
+112,123,Eastern,Kono,Fiama,Eastern,Kono,Tankoro
+117,123,Eastern,Kono,Gbane,Eastern,Kono,Tankoro
+119,123,Eastern,Kono,Gbense,Eastern,Kono,Tankoro
+122,123,Eastern,Kono,Nimikoro,Eastern,Kono,Tankoro
+123,123,Eastern,Kono,Tankoro,Eastern,Kono,Tankoro
+124,123,Eastern,Kono,Koidu Town,Eastern,Kono,Tankoro
+166,123,Eastern,Kono,Gorama Kono,Eastern,Kono,Tankoro
+119,124,Eastern,Kono,Gbense,Eastern,Kono,Koidu Town
+122,124,Eastern,Kono,Nimikoro,Eastern,Kono,Koidu Town
+123,124,Eastern,Kono,Tankoro,Eastern,Kono,Koidu Town
+124,124,Eastern,Kono,Koidu Town,Eastern,Kono,Koidu Town
+58,125,Eastern,Kenema,Gorama Mende,Eastern,Kono,Nimiyama
+103,125,Northern,Tonkolili,Kunike,Eastern,Kono,Nimiyama
+122,125,Eastern,Kono,Nimikoro,Eastern,Kono,Nimiyama
+125,125,Eastern,Kono,Nimiyama,Eastern,Kono,Nimiyama
+126,125,Eastern,Kono,Sandor,Eastern,Kono,Nimiyama
+135,125,Northern,Koinadugu,Nieni,Eastern,Kono,Nimiyama
+166,125,Eastern,Kono,Gorama Kono,Eastern,Kono,Nimiyama
+114,126,Eastern,Kono,Lei,Eastern,Kono,Sandor
+119,126,Eastern,Kono,Gbense,Eastern,Kono,Sandor
+120,126,Eastern,Kono,Kamara,Eastern,Kono,Sandor
+122,126,Eastern,Kono,Nimikoro,Eastern,Kono,Sandor
+125,126,Eastern,Kono,Nimiyama,Eastern,Kono,Sandor
+126,126,Eastern,Kono,Sandor,Eastern,Kono,Sandor
+133,126,Northern,Koinadugu,Neya,Eastern,Kono,Sandor
+135,126,Northern,Koinadugu,Nieni,Eastern,Kono,Sandor
+114,127,Eastern,Kono,Lei,Eastern,Kono,Toli
+127,127,Eastern,Kono,Toli,Eastern,Kono,Toli
+133,127,Northern,Koinadugu,Neya,Eastern,Kono,Toli
+88,128,Northern,Tonkolili,Kalansogoia,Northern,Koinadugu,Diang
+105,128,Northern,Tonkolili,Sambaya,Northern,Koinadugu,Diang
+128,128,Northern,Koinadugu,Diang,Northern,Koinadugu,Diang
+130,128,Northern,Koinadugu,Kasunko,Northern,Koinadugu,Diang
+134,128,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Diang
+135,128,Northern,Koinadugu,Nieni,Northern,Koinadugu,Diang
+137,128,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Diang
+26,129,Northern,Koinadugu,Sulima,Northern,Koinadugu,Folosaba Dembel
+104,129,Northern,Koinadugu,Dembelia - Sink,Northern,Koinadugu,Folosaba Dembel
+129,129,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Folosaba Dembel
+131,129,Northern,Koinadugu,Wara Wara Bafod,Northern,Koinadugu,Folosaba Dembel
+134,129,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Folosaba Dembel
+137,129,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Folosaba Dembel
+30,130,Northern,Bombali,Sanda Loko,Northern,Koinadugu,Kasunko
+88,130,Northern,Tonkolili,Kalansogoia,Northern,Koinadugu,Kasunko
+128,130,Northern,Koinadugu,Diang,Northern,Koinadugu,Kasunko
+130,130,Northern,Koinadugu,Kasunko,Northern,Koinadugu,Kasunko
+131,130,Northern,Koinadugu,Wara Wara Bafod,Northern,Koinadugu,Kasunko
+137,130,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Kasunko
+138,130,Northern,Bombali,Biriwa,Northern,Koinadugu,Kasunko
+148,130,Northern,Bombali,Sella Limba,Northern,Koinadugu,Kasunko
+149,130,Northern,Bombali,Tambakha,Northern,Koinadugu,Kasunko
+129,131,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Wara Wara Bafod
+130,131,Northern,Koinadugu,Kasunko,Northern,Koinadugu,Wara Wara Bafod
+131,131,Northern,Koinadugu,Wara Wara Bafod,Northern,Koinadugu,Wara Wara Bafod
+137,131,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Wara Wara Bafod
+149,131,Northern,Bombali,Tambakha,Northern,Koinadugu,Wara Wara Bafod
+26,132,Northern,Koinadugu,Sulima,Northern,Koinadugu,Mongo
+132,132,Northern,Koinadugu,Mongo,Northern,Koinadugu,Mongo
+133,132,Northern,Koinadugu,Neya,Northern,Koinadugu,Mongo
+134,132,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Mongo
+135,132,Northern,Koinadugu,Nieni,Northern,Koinadugu,Mongo
+114,133,Eastern,Kono,Lei,Northern,Koinadugu,Neya
+126,133,Eastern,Kono,Sandor,Northern,Koinadugu,Neya
+127,133,Eastern,Kono,Toli,Northern,Koinadugu,Neya
+132,133,Northern,Koinadugu,Mongo,Northern,Koinadugu,Neya
+133,133,Northern,Koinadugu,Neya,Northern,Koinadugu,Neya
+135,133,Northern,Koinadugu,Nieni,Northern,Koinadugu,Neya
+26,134,Northern,Koinadugu,Sulima,Northern,Koinadugu,Sengbe
+128,134,Northern,Koinadugu,Diang,Northern,Koinadugu,Sengbe
+129,134,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Sengbe
+132,134,Northern,Koinadugu,Mongo,Northern,Koinadugu,Sengbe
+134,134,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Sengbe
+135,134,Northern,Koinadugu,Nieni,Northern,Koinadugu,Sengbe
+137,134,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Sengbe
+103,135,Northern,Tonkolili,Kunike,Northern,Koinadugu,Nieni
+105,135,Northern,Tonkolili,Sambaya,Northern,Koinadugu,Nieni
+125,135,Eastern,Kono,Nimiyama,Northern,Koinadugu,Nieni
+126,135,Eastern,Kono,Sandor,Northern,Koinadugu,Nieni
+128,135,Northern,Koinadugu,Diang,Northern,Koinadugu,Nieni
+132,135,Northern,Koinadugu,Mongo,Northern,Koinadugu,Nieni
+133,135,Northern,Koinadugu,Neya,Northern,Koinadugu,Nieni
+134,135,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Nieni
+135,135,Northern,Koinadugu,Nieni,Northern,Koinadugu,Nieni
+3,136,Northern,Port Loko,Bureh Kasseh Ma,Northern,Kambia,Mambolo
+109,136,Northern,Port Loko,Lokomasama,Northern,Kambia,Mambolo
+136,136,Northern,Kambia,Mambolo,Northern,Kambia,Mambolo
+151,136,Northern,Kambia,Magbema,Northern,Kambia,Mambolo
+153,136,Northern,Kambia,Samu,Northern,Kambia,Mambolo
+128,137,Northern,Koinadugu,Diang,Northern,Koinadugu,Wara Wara Yagal
+129,137,Northern,Koinadugu,Folosaba Dembel,Northern,Koinadugu,Wara Wara Yagal
+130,137,Northern,Koinadugu,Kasunko,Northern,Koinadugu,Wara Wara Yagal
+131,137,Northern,Koinadugu,Wara Wara Bafod,Northern,Koinadugu,Wara Wara Yagal
+134,137,Northern,Koinadugu,Sengbe,Northern,Koinadugu,Wara Wara Yagal
+137,137,Northern,Koinadugu,Wara Wara Yagal,Northern,Koinadugu,Wara Wara Yagal
+30,138,Northern,Bombali,Sanda Loko,Northern,Bombali,Biriwa
+88,138,Northern,Tonkolili,Kalansogoia,Northern,Bombali,Biriwa
+130,138,Northern,Koinadugu,Kasunko,Northern,Bombali,Biriwa
+138,138,Northern,Bombali,Biriwa,Northern,Bombali,Biriwa
+141,138,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Biriwa
+143,138,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Biriwa
+146,138,Northern,Bombali,Safroko Limba,Northern,Bombali,Biriwa
+30,139,Northern,Bombali,Sanda Loko,Northern,Bombali,Gbanti Kamarank
+111,139,Northern,Port Loko,Sanda Magbolont,Northern,Bombali,Gbanti Kamarank
+139,139,Northern,Bombali,Gbanti Kamarank,Northern,Bombali,Gbanti Kamarank
+143,139,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Gbanti Kamarank
+147,139,Northern,Bombali,Sanda Tendaran,Northern,Bombali,Gbanti Kamarank
+154,139,Northern,Kambia,Tonko Limba,Northern,Bombali,Gbanti Kamarank
+100,140,Northern,Tonkolili,Malal Mara,Northern,Bombali,Bombali Sebora
+102,140,Northern,Tonkolili,Kholifa Rowala,Northern,Bombali,Bombali Sebora
+140,140,Northern,Bombali,Bombali Sebora,Northern,Bombali,Bombali Sebora
+144,140,Northern,Bombali,Paki Masabong,Northern,Bombali,Bombali Sebora
+145,140,Northern,Bombali,Makari Gbanti,Northern,Bombali,Bombali Sebora
+146,140,Northern,Bombali,Safroko Limba,Northern,Bombali,Bombali Sebora
+150,140,Northern,Bombali,Makeni Town,Northern,Bombali,Bombali Sebora
+138,141,Northern,Bombali,Biriwa,Northern,Bombali,Gbendembu Ngowa
+141,141,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Gbendembu Ngowa
+142,141,Northern,Bombali,Libeisaygahun,Northern,Bombali,Gbendembu Ngowa
+143,141,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Gbendembu Ngowa
+145,141,Northern,Bombali,Makari Gbanti,Northern,Bombali,Gbendembu Ngowa
+146,141,Northern,Bombali,Safroko Limba,Northern,Bombali,Gbendembu Ngowa
+147,141,Northern,Bombali,Sanda Tendaran,Northern,Bombali,Gbendembu Ngowa
+11,142,Northern,Port Loko,Buya Romende,Northern,Bombali,Libeisaygahun
+96,142,Northern,Port Loko,Dibia,Northern,Bombali,Libeisaygahun
+111,142,Northern,Port Loko,Sanda Magbolont,Northern,Bombali,Libeisaygahun
+113,142,Northern,Port Loko,TMS,Northern,Bombali,Libeisaygahun
+141,142,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Libeisaygahun
+142,142,Northern,Bombali,Libeisaygahun,Northern,Bombali,Libeisaygahun
+145,142,Northern,Bombali,Makari Gbanti,Northern,Bombali,Libeisaygahun
+147,142,Northern,Bombali,Sanda Tendaran,Northern,Bombali,Libeisaygahun
+30,143,Northern,Bombali,Sanda Loko,Northern,Bombali,Magbaimba Ndorh
+138,143,Northern,Bombali,Biriwa,Northern,Bombali,Magbaimba Ndorh
+139,143,Northern,Bombali,Gbanti Kamarank,Northern,Bombali,Magbaimba Ndorh
+141,143,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Magbaimba Ndorh
+143,143,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Magbaimba Ndorh
+147,143,Northern,Bombali,Sanda Tendaran,Northern,Bombali,Magbaimba Ndorh
+99,144,Northern,Tonkolili,Kafe Simiria,Northern,Bombali,Paki Masabong
+102,144,Northern,Tonkolili,Kholifa Rowala,Northern,Bombali,Paki Masabong
+140,144,Northern,Bombali,Bombali Sebora,Northern,Bombali,Paki Masabong
+144,144,Northern,Bombali,Paki Masabong,Northern,Bombali,Paki Masabong
+146,144,Northern,Bombali,Safroko Limba,Northern,Bombali,Paki Masabong
+11,145,Northern,Port Loko,Buya Romende,Northern,Bombali,Makari Gbanti
+89,145,Northern,Port Loko,Marampa,Northern,Bombali,Makari Gbanti
+100,145,Northern,Tonkolili,Malal Mara,Northern,Bombali,Makari Gbanti
+140,145,Northern,Bombali,Bombali Sebora,Northern,Bombali,Makari Gbanti
+141,145,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Makari Gbanti
+142,145,Northern,Bombali,Libeisaygahun,Northern,Bombali,Makari Gbanti
+145,145,Northern,Bombali,Makari Gbanti,Northern,Bombali,Makari Gbanti
+146,145,Northern,Bombali,Safroko Limba,Northern,Bombali,Makari Gbanti
+150,145,Northern,Bombali,Makeni Town,Northern,Bombali,Makari Gbanti
+88,146,Northern,Tonkolili,Kalansogoia,Northern,Bombali,Safroko Limba
+99,146,Northern,Tonkolili,Kafe Simiria,Northern,Bombali,Safroko Limba
+138,146,Northern,Bombali,Biriwa,Northern,Bombali,Safroko Limba
+140,146,Northern,Bombali,Bombali Sebora,Northern,Bombali,Safroko Limba
+141,146,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Safroko Limba
+144,146,Northern,Bombali,Paki Masabong,Northern,Bombali,Safroko Limba
+145,146,Northern,Bombali,Makari Gbanti,Northern,Bombali,Safroko Limba
+146,146,Northern,Bombali,Safroko Limba,Northern,Bombali,Safroko Limba
+111,147,Northern,Port Loko,Sanda Magbolont,Northern,Bombali,Sanda Tendaran
+139,147,Northern,Bombali,Gbanti Kamarank,Northern,Bombali,Sanda Tendaran
+141,147,Northern,Bombali,Gbendembu Ngowa,Northern,Bombali,Sanda Tendaran
+142,147,Northern,Bombali,Libeisaygahun,Northern,Bombali,Sanda Tendaran
+143,147,Northern,Bombali,Magbaimba Ndorh,Northern,Bombali,Sanda Tendaran
+147,147,Northern,Bombali,Sanda Tendaran,Northern,Bombali,Sanda Tendaran
+30,148,Northern,Bombali,Sanda Loko,Northern,Bombali,Sella Limba
+130,148,Northern,Koinadugu,Kasunko,Northern,Bombali,Sella Limba
+148,148,Northern,Bombali,Sella Limba,Northern,Bombali,Sella Limba
+149,148,Northern,Bombali,Tambakha,Northern,Bombali,Sella Limba
+154,148,Northern,Kambia,Tonko Limba,Northern,Bombali,Sella Limba
+12,149,Northern,Kambia,Bramaia,Northern,Bombali,Tambakha
+130,149,Northern,Koinadugu,Kasunko,Northern,Bombali,Tambakha
+131,149,Northern,Koinadugu,Wara Wara Bafod,Northern,Bombali,Tambakha
+148,149,Northern,Bombali,Sella Limba,Northern,Bombali,Tambakha
+149,149,Northern,Bombali,Tambakha,Northern,Bombali,Tambakha
+154,149,Northern,Kambia,Tonko Limba,Northern,Bombali,Tambakha
+140,150,Northern,Bombali,Bombali Sebora,Northern,Bombali,Makeni Town
+145,150,Northern,Bombali,Makari Gbanti,Northern,Bombali,Makeni Town
+150,150,Northern,Bombali,Makeni Town,Northern,Bombali,Makeni Town
+3,151,Northern,Port Loko,Bureh Kasseh Ma,Northern,Kambia,Magbema
+12,151,Northern,Kambia,Bramaia,Northern,Kambia,Magbema
+79,151,Northern,Kambia,Gbinle Dixing,Northern,Kambia,Magbema
+136,151,Northern,Kambia,Mambolo,Northern,Kambia,Magbema
+151,151,Northern,Kambia,Magbema,Northern,Kambia,Magbema
+152,151,Northern,Kambia,Masungbala,Northern,Kambia,Magbema
+153,151,Northern,Kambia,Samu,Northern,Kambia,Magbema
+154,151,Northern,Kambia,Tonko Limba,Northern,Kambia,Magbema
+3,152,Northern,Port Loko,Bureh Kasseh Ma,Northern,Kambia,Masungbala
+111,152,Northern,Port Loko,Sanda Magbolont,Northern,Kambia,Masungbala
+151,152,Northern,Kambia,Magbema,Northern,Kambia,Masungbala
+152,152,Northern,Kambia,Masungbala,Northern,Kambia,Masungbala
+154,152,Northern,Kambia,Tonko Limba,Northern,Kambia,Masungbala
+79,153,Northern,Kambia,Gbinle Dixing,Northern,Kambia,Samu
+136,153,Northern,Kambia,Mambolo,Northern,Kambia,Samu
+151,153,Northern,Kambia,Magbema,Northern,Kambia,Samu
+153,153,Northern,Kambia,Samu,Northern,Kambia,Samu
+12,154,Northern,Kambia,Bramaia,Northern,Kambia,Tonko Limba
+30,154,Northern,Bombali,Sanda Loko,Northern,Kambia,Tonko Limba
+111,154,Northern,Port Loko,Sanda Magbolont,Northern,Kambia,Tonko Limba
+139,154,Northern,Bombali,Gbanti Kamarank,Northern,Kambia,Tonko Limba
+148,154,Northern,Bombali,Sella Limba,Northern,Kambia,Tonko Limba
+149,154,Northern,Bombali,Tambakha,Northern,Kambia,Tonko Limba
+151,154,Northern,Kambia,Magbema,Northern,Kambia,Tonko Limba
+152,154,Northern,Kambia,Masungbala,Northern,Kambia,Tonko Limba
+154,154,Northern,Kambia,Tonko Limba,Northern,Kambia,Tonko Limba
+2,155,Northern,Port Loko,Koya,Western,Western Area Rural,Koya Rural
+53,155,Southern,Moyamba,Ribbi,Western,Western Area Rural,Koya Rural
+155,155,Western,Western Area Rural,Koya Rural,Western,Western Area Rural,Koya Rural
+157,155,Western,Western Area Rural,Waterloo Rural,Western,Western Area Rural,Koya Rural
+158,155,Western,Western Area Rural,York Rural,Western,Western Area Rural,Koya Rural
+156,156,Western,Western Area Rural,Mountain Rural,Western,Western Area Rural,Mountain Rural
+157,156,Western,Western Area Rural,Waterloo Rural,Western,Western Area Rural,Mountain Rural
+158,156,Western,Western Area Rural,York Rural,Western,Western Area Rural,Mountain Rural
+159,156,Western,Western Area Urban,Central I,Western,Western Area Rural,Mountain Rural
+161,156,Western,Western Area Urban,East II,Western,Western Area Rural,Mountain Rural
+163,156,Western,Western Area Urban,West III,Western,Western Area Rural,Mountain Rural
+165,156,Western,Western Area Urban,West II,Western,Western Area Rural,Mountain Rural
+167,156,Western,Western Area Urban,East III,Western,Western Area Rural,Mountain Rural
+2,157,Northern,Port Loko,Koya,Western,Western Area Rural,Waterloo Rural
+155,157,Western,Western Area Rural,Koya Rural,Western,Western Area Rural,Waterloo Rural
+156,157,Western,Western Area Rural,Mountain Rural,Western,Western Area Rural,Waterloo Rural
+157,157,Western,Western Area Rural,Waterloo Rural,Western,Western Area Rural,Waterloo Rural
+158,157,Western,Western Area Rural,York Rural,Western,Western Area Rural,Waterloo Rural
+167,157,Western,Western Area Urban,East III,Western,Western Area Rural,Waterloo Rural
+155,158,Western,Western Area Rural,Koya Rural,Western,Western Area Rural,York Rural
+156,158,Western,Western Area Rural,Mountain Rural,Western,Western Area Rural,York Rural
+157,158,Western,Western Area Rural,Waterloo Rural,Western,Western Area Rural,York Rural
+158,158,Western,Western Area Rural,York Rural,Western,Western Area Rural,York Rural
+163,158,Western,Western Area Urban,West III,Western,Western Area Rural,York Rural
+156,159,Western,Western Area Rural,Mountain Rural,Western,Western Area Urban,Central I
+159,159,Western,Western Area Urban,Central I,Western,Western Area Urban,Central I
+161,159,Western,Western Area Urban,East II,Western,Western Area Urban,Central I
+162,159,Western,Western Area Urban,Central II,Western,Western Area Urban,Central I
+165,159,Western,Western Area Urban,West II,Western,Western Area Urban,Central I
+160,160,Western,Western Area Urban,East I,Western,Western Area Urban,East I
+161,160,Western,Western Area Urban,East II,Western,Western Area Urban,East I
+167,160,Western,Western Area Urban,East III,Western,Western Area Urban,East I
+156,161,Western,Western Area Rural,Mountain Rural,Western,Western Area Urban,East II
+159,161,Western,Western Area Urban,Central I,Western,Western Area Urban,East II
+160,161,Western,Western Area Urban,East I,Western,Western Area Urban,East II
+161,161,Western,Western Area Urban,East II,Western,Western Area Urban,East II
+167,161,Western,Western Area Urban,East III,Western,Western Area Urban,East II
+159,162,Western,Western Area Urban,Central I,Western,Western Area Urban,Central II
+162,162,Western,Western Area Urban,Central II,Western,Western Area Urban,Central II
+164,162,Western,Western Area Urban,West I,Western,Western Area Urban,Central II
+165,162,Western,Western Area Urban,West II,Western,Western Area Urban,Central II
+156,163,Western,Western Area Rural,Mountain Rural,Western,Western Area Urban,West III
+158,163,Western,Western Area Rural,York Rural,Western,Western Area Urban,West III
+163,163,Western,Western Area Urban,West III,Western,Western Area Urban,West III
+165,163,Western,Western Area Urban,West II,Western,Western Area Urban,West III
+162,164,Western,Western Area Urban,Central II,Western,Western Area Urban,West I
+164,164,Western,Western Area Urban,West I,Western,Western Area Urban,West I
+165,164,Western,Western Area Urban,West II,Western,Western Area Urban,West I
+156,165,Western,Western Area Rural,Mountain Rural,Western,Western Area Urban,West II
+159,165,Western,Western Area Urban,Central I,Western,Western Area Urban,West II
+162,165,Western,Western Area Urban,Central II,Western,Western Area Urban,West II
+163,165,Western,Western Area Urban,West III,Western,Western Area Urban,West II
+164,165,Western,Western Area Urban,West I,Western,Western Area Urban,West II
+165,165,Western,Western Area Urban,West II,Western,Western Area Urban,West II
+55,166,Eastern,Kenema,Dodo,Eastern,Kono,Gorama Kono
+58,166,Eastern,Kenema,Gorama Mende,Eastern,Kono,Gorama Kono
+60,166,Eastern,Kenema,Lower Bambara,Eastern,Kono,Gorama Kono
+67,166,Eastern,Kenema,Wandor,Eastern,Kono,Gorama Kono
+117,166,Eastern,Kono,Gbane,Eastern,Kono,Gorama Kono
+122,166,Eastern,Kono,Nimikoro,Eastern,Kono,Gorama Kono
+123,166,Eastern,Kono,Tankoro,Eastern,Kono,Gorama Kono
+125,166,Eastern,Kono,Nimiyama,Eastern,Kono,Gorama Kono
+166,166,Eastern,Kono,Gorama Kono,Eastern,Kono,Gorama Kono
+156,167,Western,Western Area Rural,Mountain Rural,Western,Western Area Urban,East III
+157,167,Western,Western Area Rural,Waterloo Rural,Western,Western Area Urban,East III
+160,167,Western,Western Area Urban,East I,Western,Western Area Urban,East III
+161,167,Western,Western Area Urban,East II,Western,Western Area Urban,East III
+167,167,Western,Western Area Urban,East III,Western,Western Area Urban,East III
+168,168,Northern,Port Loko,Tasso Island,Northern,Port Loko,Tasso Island
