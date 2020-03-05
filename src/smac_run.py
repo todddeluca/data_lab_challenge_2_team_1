@@ -79,7 +79,7 @@ def main():
     if args.topicmodel:
         print('Running topic model')
         counts = pd.read_csv('../data/clean/survey_word_counts.csv',index_col=0)['0'].to_dict()
-        print(counts)
+        #   print(counts)
         smac_topic(updated[target_col].dropna().unique(), counts)
 
 
