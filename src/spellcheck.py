@@ -56,8 +56,8 @@ def run_spell_correct(responses: pd.DataFrame, new_counts: pd.DataFrame = None):
     responses = responses.dropna().values
     corrected_responses = {}
     for line in responses:
-        #print(line)
-        #exit()
+        # print(line)
+        # exit()
         if line in corrected_responses:
             continue
         line_regex = parse_text(line, regex)
@@ -76,8 +76,6 @@ def merge_corrected(df, target_col, update_dict):
     """
     df[target_col] = df[target_col].map(update_dict)
     return df
-
-
 
 
 def make_adjusted_distribution(new_counts: pd.DataFrame, sym_spell):
